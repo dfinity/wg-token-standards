@@ -18,3 +18,5 @@ This working group is concerned with all aspects related to token and ledger sta
 * Namespacing for the `icp` URI scheme
 * [URI Scheme For Addressing Content of Canisters Exposed Via Their HTTP Interface](https://github.com/dfinity/ICRC/pull/96/files)
 * 
+
+If you intend to contribute to this standard, please let me know to give you permissions on the repository.
