@@ -6,7 +6,7 @@ This working group is concerned with all aspects related to token and ledger sta
 * [ICRC-97: Non-Fungible Token (NFT) Metadata Standard](https://github.com/dfinity/ICRC/pull/98)
 
 **Naming and namespacing standards**
-* ICP Network Registry
+* [ICP Network Registry](https://github.com/dfinity/wg-token-standards/pull/1)
 * Namespacing for the `icp` URI scheme
 
 **CAIP compatibility standards**
