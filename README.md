@@ -10,7 +10,7 @@ This working group is concerned with all aspects related to token and ledger sta
 * Namespacing for the `icp` URI scheme
 
 **CAIP compatibility standards**
-* [CAIP-2-compliant blockchain identifiers](https://github.com/icvc/icp-namespace/pull/1)
+* [CAIP-2-compliant blockchain identifiers](https://github.com/dfinity/wg-token-standards/pull/2)
 * [CAIP-10-compliant account addresses](https://github.com/icvc/icp-namespace/pull/1)
 
 *References:*
