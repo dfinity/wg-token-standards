@@ -10,8 +10,7 @@ This document defines the ICP Network Registry which assigns names to networks b
 
 ## Introduction
 
-Most blockchain ecosystems, e.g., Ethereum, Cosmos, or Bitcoin, have identifiers for networks built on the respective technology that are tracked in a public registry. This allows for obtaining short and simple identifiers for networks, e.g., a mainnet or a testnet in a given ecosystem, without requiring longer and random identifiers like such derived from an inherent property of the respective network, e.g., its genesis block or public key. This ICRC standard defines the ICP Network Registry which defines normative identifiers for
-
+Some blockchain ecosystems such as Ethereum or Cosmos have identifiers for networks built on the respective technology that are tracked in a public registry. This allows for assigning short and simple identifiers for networks, e.g., a mainnet or a testnet in a given ecosystem, without requiring longer and random identifiers, like such derived from an inherent property of the respective network, e.g., its genesis block or public key. This ICRC standard defines the ICP Network Registry which defines normative identifiers for
 * all public networks belonging to the ICP ecosystem, private deployments of the ICP technology stack;
 * selected private deployments of the ICP technology stack using the UTOPIA technology stack, if the governing entity of the deployment agrees with a listing of their network in the Registry; and
 * classes of local deployments of the ICP network (most prominently deployments created by the dfx tool for development and testing purposes).
@@ -44,6 +43,8 @@ non_zero_digit = "1" / "2" / "3" / "4" / "5" / "6" / "7" / "8" / "9"
 ```
 
 This syntax definition makes a network name a number ranging from `1` to `9999999999999999999999999999999` inclusive, a number with 31 `9`s, which is the maximum chain number.
+
+The rationale of allowing at most 31 digits for the name is that the naming scheme introduced in ICRC-b has exactly 32 characters. Constraining the current scheme to 31 characters at most allows to uniquely differentiate between the two schemes.
 
 ### Semantics
 
