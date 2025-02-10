@@ -39,11 +39,11 @@ adoption has reached an adequate level.
 | Standard | Title                             | Status     | Lead       |
 |----------|-----------------------------------|------------|------------|
 | ICRC-1 | Token Standard  | ![Approved] | Roman |
-| ICRC-2 | Approve/Transfer_from Token Standard | ![Approved] | Roman |
-| ICRC-3 | Block Log Standard | ![Approved] | Mario |
-| ICRC-103  | List Outstanding Approvals Standard           | ![Draft] | Bogdan |
-| ICRC-106  | Legacy Index Discovery Standard | ![Draft] | Bogdan |
-| ICRC-107 | Fee Collection Standard | ![Draft] | Bogdan |
+| ICRC-2 | Approve and Transfer From  | ![Approved] | Roman |
+| ICRC-3 | Block Log  | ![Approved] | Mario |
+| ICRC-103  | List Outstanding Approvals            | ![Draft] | Bogdan |
+| ICRC-106  | Legacy Index Discovery  | ![Draft] | Bogdan |
+| ICRC-107 | Fee Collection  | ![Draft] | Bogdan |
 
 
 
