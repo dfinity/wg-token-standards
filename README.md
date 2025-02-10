@@ -38,9 +38,9 @@ adoption has reached an adequate level.
 ### Ledger Standards
 | Standard | Title                             | Status     | Lead       |
 |----------|-----------------------------------|------------|------------|
-| ICRC-1 | Token Standard  | ![Approved] | Roman |
-| ICRC-2 | Approve and Transfer From  | ![Approved] | Roman |
-| ICRC-3 | Block Log  | ![Approved] | Mario |
+| [ICRC-1](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-1) | Token Standard  | ![Approved] | Roman |
+| [ICRC-2](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-2)  | Approve and Transfer From  | ![Approved] | Roman |
+| [ICRC-3](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-3/README.md) | Block Log  | ![Approved] | Mario |
 | ICRC-103  | List Outstanding Approvals            | ![Draft] | Bogdan |
 | ICRC-106  | Legacy Index Discovery  | ![Draft] | Bogdan |
 | ICRC-107 | Fee Collection  | ![Draft] | Bogdan |
@@ -75,14 +75,15 @@ adoption has reached an adequate level.
 ## Meetings and Community Participation
 
 ### Meeting Schedule
-Meetings occur bi-weekly, Tuesdays 5pm CET.
+Meetings occur bi-weekly, Tuesdays 5pm CET (See [Calendar](https://calendar.google.com/calendar/u/0/embed?src=c_cgoeq917rpeap7vse3is1hl310@group.calendar.google.com&ctz=Europe/Zurich)).
 
-- **Agenda:** Posted before each meeting
+- **Calendar:** Subscribe [here](https://calendar.google.com/calendar/u/0?cid=Y19jazBncjc5YmtnY29vaWNuMXA4N21vMWVyb0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t)
+- **Agenda:** Posted before each meeting on the [Forum]
 - **Recordings:** Available [here](https://drive.google.com/drive/u/0/folders/1TlaDISjZpAKpqJdXzYMw4hhuKj5YxZ3J)
-- **Calendar:** Subscribe [here](https://calendar.google.com/calendar/u/0/embed?src=c_cgoeq917rpeap7vse3is1hl310@group.calendar.google.com)
+
 
 ### Discussion Channels
-Join discussions on the `#token-standards` channel on Discord.
+Join discussions on the `#token-standards` channel on [Discord].
 
 ## Contributing
 
@@ -116,7 +117,7 @@ We welcome contributions from the community!
 
 [//]: # (Common links)
 
-[FORUM]: https://forum.dfinity.org/t/11902
+[FORUM]: https://forum.dfinity.org/t/39900
 
 [DISCORD]: https://discord.internetcomputer.org/
 
