@@ -49,7 +49,9 @@ adoption has reached an adequate level.
 
 | Standard | Title                             | Status     | Lead       |
 |----------|-----------------------------------|------------|------------|
-| [ICRC-97](https://github.com/dfinity/ICRC/pull/98)  | NFT Metadata Standard             | ![Draft] | [Lead Name] |
+| [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md)  | Minimal Non-Fungible Token (NFT) Standard            | ![Approved] | [Lead Name] |
+| [ICRC-37](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-37/ICRC-37.md)  | Approval Functionality for the ICRC-7 Non-Fungible Token (NFT)             | ![Approved] | [Lead Name] |
+| [ICRC-97](https://github.com/dfinity/ICRC/pull/98)  | NFT Metadata              | ![Draft] | [Lead Name] |
 
 ### Naming and Namespacing Standards
 
