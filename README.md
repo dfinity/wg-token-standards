@@ -44,7 +44,7 @@ adoption has reached an adequate level.
 | ICRC-103  | List Outstanding Approvals            | ![Draft] | Bogdan |
 | ICRC-106  | Legacy Index Discovery  | ![Draft] | Bogdan |
 | ICRC-107 | Fee Collection  | ![Draft] | Bogdan |
-
+| ICRC-122 | Authorised Mints and Burns | ![Draft] |
 
 
 | Standard | Title                             | Status     | Lead       |
