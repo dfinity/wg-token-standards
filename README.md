@@ -41,10 +41,13 @@ adoption has reached an adequate level.
 | [ICRC-1](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-1) | Token Standard  | ![Approved] | Roman |
 | [ICRC-2](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-2)  | Approve and Transfer From  | ![Approved] | Roman |
 | [ICRC-3](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-3/README.md) | Block Log  | ![Approved] | Mario |
-| ICRC-103  | List Outstanding Approvals            | ![Draft] | Bogdan |
-| ICRC-106  | Legacy Index Discovery  | ![Draft] | Bogdan |
-| ICRC-107 | Fee Collection  | ![Draft] | Bogdan |
-| ICRC-122 | Authorised Mints and Burns | ![Draft] |
+| ICRC-103  | List Outstanding Approvals(https://github.com/dfinity/ICRC-1/pull/197)            | ![Draft] | Bogdan |
+| ICRC-106  | Legacy Index Discovery (https://github.com/dfinity/ICRC-1/pull/196) | ![Draft] | Bogdan |
+| ICRC-107 | Fee Collection (https://github.com/dfinity/ICRC/pull/117) | ![Draft] | Bogdan |
+| ICRC-122 | Blocks for Authorised Mints and Burns (https://github.com/dfinity/ICRC/pull/125) | ![Draft] |
+| ICRC-123 | Blocks for Authorised Freezing and Unfreezing (https://github.com/dfinity/ICRC/pull/134) | ![Draft] |
+| ICRC-124 | Blocks Stopping, Unstoppin, Deactivating a Ledger (https://github.com/dfinity/ICRC/pull/135)| ![Draft] |
+
 
 
 | Standard | Title                             | Status     | Lead       |
