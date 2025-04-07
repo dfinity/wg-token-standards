@@ -46,8 +46,7 @@ adoption has reached an adequate level.
 | [ICRC-107](https://github.com/dfinity/ICRC/pull/117) | Fee Collection  | ![Draft] | Bogdan |
 | [ICRC-122](https://github.com/dfinity/ICRC/pull/125) | Blocks for Authorised Mints and Burns  | ![Draft] | Bogdan |
 | [ICRC-123](https://github.com/dfinity/ICRC/pull/134) | Blocks for Authorised Freezing and Unfreezing  | ![Draft] | Bogdan |
-| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Blocks Stopping, Unstoppin, Deactivating a Ledger | ![Draft] | Bogdan |
-
+| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Blocks Stopping, Unstopping, Deactivating a Ledger | ![Draft] | Bogdan |
 
 
 | Standard | Title                             | Status     | Lead       |
