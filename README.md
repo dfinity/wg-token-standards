@@ -41,15 +41,19 @@ adoption has reached an adequate level.
 | [ICRC-1](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-1) | Token Standard  | ![Approved] | Roman |
 | [ICRC-2](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-2)  | Approve and Transfer From  | ![Approved] | Roman |
 | [ICRC-3](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-3/README.md) | Block Log  | ![Approved] | Mario |
-| ICRC-103  | List Outstanding Approvals            | ![Draft] | Bogdan |
-| ICRC-106  | Legacy Index Discovery  | ![Draft] | Bogdan |
-| ICRC-107 | Fee Collection  | ![Draft] | Bogdan |
-
+| [ICRC-103](https://github.com/dfinity/ICRC-1/pull/197)  | List Outstanding Approvals            | ![Draft] | Bogdan |
+| [ICRC-106](https://github.com/dfinity/ICRC-1/pull/196)   | Legacy Index Discovery | ![Draft] | Bogdan |
+| [ICRC-107](https://github.com/dfinity/ICRC/pull/117) | Fee Collection  | ![Draft] | Bogdan |
+| [ICRC-122](https://github.com/dfinity/ICRC/pull/125) | Blocks for Authorised Mints and Burns  | ![Draft] | Bogdan |
+| [ICRC-123](https://github.com/dfinity/ICRC/pull/134) | Blocks for Authorised Freezing and Unfreezing  | ![Draft] | Bogdan |
+| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Blocks Stopping, Unstopping, Deactivating a Ledger | ![Draft] | Bogdan |
 
 
 | Standard | Title                             | Status     | Lead       |
 |----------|-----------------------------------|------------|------------|
-| [ICRC-97](https://github.com/dfinity/ICRC/pull/98)  | NFT Metadata Standard             | ![Draft] | [Lead Name] |
+| [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md)  | Minimal Non-Fungible Token (NFT) Standard            | ![Approved] | [Lead Name] |
+| [ICRC-37](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-37/ICRC-37.md)  | Approval Functionality for the ICRC-7 Non-Fungible Token (NFT)             | ![Approved] | [Lead Name] |
+| [ICRC-97](https://github.com/dfinity/ICRC/pull/98)  | NFT Metadata              | ![Draft] | [Lead Name] |
 
 ### Naming and Namespacing Standards
 
