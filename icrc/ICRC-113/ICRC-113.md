@@ -56,10 +56,19 @@ Not every ICP-based network needs to be assigned a name through this registry. F
 
 The ICP Network Name Registry is a document that can be updated via a defined governance process. The following governance approaches are currently defined:
 
-* The further partitioning of existing sub-namespaces is governed by the NNS.
-* The network name sub-namespace from `1` to `890` exclusive is governed by the NNS.
-* The network name namespace from `890` to `1000` exclusive is governed by the NNS.
-* The network name namespace from `1000` is governed by the NNS.
+
+NNS-managed instances
+* `1 - 10_000`: addresses associated with ICP mainnet and developer tooling
+* `10_001 - 100_000`: reserved for UTOPIA networks
+* `100_001 - 1_000_000_000`: reserved for future use
+* `1_000_000_001 - 9999999999999999999999999999999`: reserved for usages not defined in this ICRC
+
+Currently assigned identifiers:
+* `1`: ICP mainnet
+* `1337`: local DFX development network
+
+NNS proposals for reserving addresses in the NNS-assigneable range and ranges SHOULD request consecutive addresses. Exceptions can be made with a good reason.
+
 
 #### Rationale of the Defined Governance Structure
 
@@ -72,7 +81,7 @@ This section comprises the normative ICP Network Name Registry. This section is 
 | Network name | Network |
 --------------------------
 | 1 | ICP mainnet |
-| 890 | All local DFX development networks (ephemeral networks) |
+| 1337 | All local DFX development networks (ephemeral networks) |
 
 
 [CO08] D. Crocker, Ed., P. Overell: Augmented BNF for Syntax Specifications: ABNF. 2008, https://datatracker.ietf.org/doc/html/rfc5234
