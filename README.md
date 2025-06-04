@@ -41,6 +41,7 @@ adoption has reached an adequate level.
 | [ICRC-1](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-1) | Token Standard  | ![STANDARD] | Roman |
 | [ICRC-2](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-2)  | Approve and Transfer From  | ![STANDARD] | Roman |
 | [ICRC-3](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-3/README.md) | Block Log  | ![STANDARD] | Mario |
+| [ICRC-4](https://github.com/skilesare/ICRC/tree/main/ICRCs/ICRC-4) | Batch Transactons | ![APPROVED] | Austin |
 | [ICRC-103](https://github.com/dfinity/ICRC-1/pull/197)  | List Outstanding Approvals            | ![APPROVED] | Bogdan |
 | [ICRC-106](https://github.com/dfinity/ICRC-1/pull/196)   | Legacy Index Discovery | ![APPROVED] | Bogdan |
 | [ICRC-107](https://github.com/dfinity/ICRC/pull/117) | Fee Collection  | ![APPROVED] | Bogdan |
