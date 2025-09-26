@@ -44,9 +44,13 @@ adoption has reached an adequate level.
 | [ICRC-103](https://github.com/dfinity/ICRC-1/pull/197)  | List Outstanding Approvals            | ![APPROVED] | Bogdan |
 | [ICRC-106](https://github.com/dfinity/ICRC-1/pull/196)   | Legacy Index Discovery | ![APPROVED] | Bogdan |
 | [ICRC-107](https://github.com/dfinity/ICRC/pull/117) | Fee Collection  | ![APPROVED] | Bogdan |
-| [ICRC-122](https://github.com/dfinity/ICRC/pull/125) | Blocks for Authorised Mints and Burns  | ![Draft] | Bogdan |
-| [ICRC-123](https://github.com/dfinity/ICRC/pull/134) | Blocks for Authorised Freezing and Unfreezing  | ![Draft] | Bogdan |
-| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Blocks Stopping, Unstopping, Deactivating a Ledger | ![Draft] | Bogdan |
+| [ICRC-122](https://github.com/dfinity/ICRC/pull/125) | Mint & Burn Blocks | ![Draft] | Bogdan |
+| [ICRC-123](https://github.com/dfinity/ICRC/pull/134) | Freeze & Unfreeze Blocks | ![Draft] | Bogdan |
+| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Pause, Unpause & Deactivate Blocks | ![Draft] | Bogdan |
+| [ICRC-152](https://github.com/dfinity/ICRC/pull/156) | Mint & Burn API | ![Draft] | Bogdan |
+| [ICRC-153](https://github.com/dfinity/ICRC/pull/157) | Freeze & Unfreeze API | ![Draft] | Bogdan |
+| [ICRC-154](https://github.com/dfinity/ICRC/pull/158) | Pause, Unpause & Deactivate API | ![Draft] | Bogdan |
+
 
 
 | Standard | Title                             | Status     | Lead       |
