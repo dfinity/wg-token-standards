@@ -44,12 +44,13 @@ adoption has reached an adequate level.
 | [ICRC-103](https://github.com/dfinity/ICRC-1/pull/197)  | List Outstanding Approvals            | ![APPROVED] |
 | [ICRC-106](https://github.com/dfinity/ICRC-1/pull/196)   | Legacy Index Discovery | ![APPROVED] |
 | [ICRC-107](https://github.com/dfinity/ICRC/pull/117) | Fee Collection  | ![APPROVED] |
-| [ICRC-122](https://github.com/dfinity/ICRC/pull/125) | Mint & Burn Blocks | ![Draft] |
-| [ICRC-123](https://github.com/dfinity/ICRC/pull/134) | Freeze & Unfreeze Blocks | ![Draft] |
-| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Pause, Unpause & Deactivate Blocks | ![Draft] |
-| [ICRC-152](https://github.com/dfinity/ICRC/pull/156) | Mint & Burn API | ![Draft] |
-| [ICRC-153](https://github.com/dfinity/ICRC/pull/157) | Freeze & Unfreeze API | ![Draft] |
-| [ICRC-154](https://github.com/dfinity/ICRC/pull/158) | Pause, Unpause & Deactivate API | ![Draft] |
+| [ICRC-122](https://github.com/dfinity/ICRC/pull/125) | Mint & Burn Blocks | ![DRAFT] |
+| [ICRC-123](https://github.com/dfinity/ICRC/pull/134) | Freeze & Unfreeze Blocks | ![DRAFT] |
+| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Pause, Unpause & Deactivate Blocks | ![DRAFT] |
+| [ICRC-152](https://github.com/dfinity/ICRC/pull/156) | Mint & Burn API | ![DRAFT] |
+| [ICRC-153](https://github.com/dfinity/ICRC/pull/157) | Freeze & Unfreeze API | ![DRAFT] |
+| [ICRC-154](https://github.com/dfinity/ICRC/pull/158) | Pause, Unpause & Deactivate API | ![DRAFT] |
+
 
 
 | Standard | Title                             | Status     |
