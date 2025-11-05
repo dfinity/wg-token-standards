@@ -36,45 +36,49 @@ adoption has reached an adequate level.
 
 
 ### Ledger Standards
-| Standard | Title                             | Status     | Lead       |
-|----------|-----------------------------------|------------|------------|
-| [ICRC-1](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-1) | Token Standard  | ![STANDARD] | Roman |
-| [ICRC-2](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-2)  | Approve and Transfer From  | ![STANDARD] | Roman |
-| [ICRC-3](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-3/README.md) | Block Log  | ![STANDARD] | Mario |
-| [ICRC-103](https://github.com/dfinity/ICRC-1/pull/197)  | List Outstanding Approvals            | ![APPROVED] | Bogdan |
-| [ICRC-106](https://github.com/dfinity/ICRC-1/pull/196)   | Legacy Index Discovery | ![APPROVED] | Bogdan |
-| [ICRC-107](https://github.com/dfinity/ICRC/pull/117) | Fee Collection  | ![APPROVED] | Bogdan |
-| [ICRC-122](https://github.com/dfinity/ICRC/pull/125) | Blocks for Authorised Mints and Burns  | ![Draft] | Bogdan |
-| [ICRC-123](https://github.com/dfinity/ICRC/pull/134) | Blocks for Authorised Freezing and Unfreezing  | ![Draft] | Bogdan |
-| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Blocks Stopping, Unstopping, Deactivating a Ledger | ![Draft] | Bogdan |
+| Standard | Title                             | Status     |
+|----------|-----------------------------------|------------|
+| [ICRC-1](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-1) | Token Standard  | ![STANDARD] |
+| [ICRC-2](https://github.com/dfinity/ICRC-1/tree/main/standards/ICRC-2)  | Approve and Transfer From  | ![STANDARD] |
+| [ICRC-3](https://github.com/dfinity/ICRC-1/blob/main/standards/ICRC-3/README.md) | Block Log  | ![STANDARD] |
+| [ICRC-103](https://github.com/dfinity/ICRC-1/pull/197)  | List Outstanding Approvals            | ![APPROVED] |
+| [ICRC-106](https://github.com/dfinity/ICRC-1/pull/196)   | Legacy Index Discovery | ![APPROVED] |
+| [ICRC-107](https://github.com/dfinity/ICRC/pull/117) | Fee Collection  | ![APPROVED] |
+| [ICRC-122](https://github.com/dfinity/ICRC/pull/125) | Mint & Burn Blocks | ![DRAFT] |
+| [ICRC-123](https://github.com/dfinity/ICRC/pull/134) | Freeze & Unfreeze Blocks | ![DRAFT] |
+| [ICRC-124](https://github.com/dfinity/ICRC/pull/135) | Pause, Unpause & Deactivate Blocks | ![DRAFT] |
+| [ICRC-152](https://github.com/dfinity/ICRC/pull/156) | Mint & Burn API | ![DRAFT] |
+| [ICRC-153](https://github.com/dfinity/ICRC/pull/157) | Freeze & Unfreeze API | ![DRAFT] |
+| [ICRC-154](https://github.com/dfinity/ICRC/pull/158) | Pause, Unpause & Deactivate API | ![DRAFT] |
 
 
-| Standard | Title                             | Status     | Lead       |
-|----------|-----------------------------------|------------|------------|
-| [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md)  | Minimal Non-Fungible Token (NFT) Standard            | ![STANDARD] | [Lead Name] |
-| [ICRC-37](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-37/ICRC-37.md)  | Approval Functionality for the ICRC-7 Non-Fungible Token (NFT)             | ![STANDARD] | [Lead Name] |
-| [ICRC-97](https://github.com/dfinity/ICRC/pull/98)  | NFT Metadata              | ![APPROVED] | [Lead Name] |
+
+| Standard | Title                             | Status     |
+|----------|-----------------------------------|------------|
+| [ICRC-7](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-7/ICRC-7.md)  | Minimal Non-Fungible Token (NFT) Standard            | ![STANDARD] |
+| [ICRC-37](https://github.com/dfinity/ICRC/blob/main/ICRCs/ICRC-37/ICRC-37.md)  | Approval Functionality for the ICRC-7 Non-Fungible Token (NFT)             | ![STANDARD] |
+| [ICRC-97](https://github.com/dfinity/ICRC/pull/98)  | NFT Metadata              | ![APPROVED] |
 
 ### Naming and Namespacing Standards
 
-| Standard | Title                                       | Status     | Lead       |
-|----------|-------------------------------------------|------------|------------|
-| [ICRC-113](https://github.com/dfinity/wg-token-standards/pull/1) | ICP Network Registry | ![Draft] | [Lead Name] |
-| ICRC-XX  | Namespacing for `icp` URI scheme | ![Idea] | [Lead Name] |
+| Standard | Title                                       | Status     |
+|----------|---------------------------------------------|------------|
+| [ICRC-113](https://github.com/dfinity/wg-token-standards/pull/1) | ICP Network Registry | ![Draft] |
+| ICRC-XX  | Namespacing for `icp` URI scheme | ![Idea] |
 
 ### CAIP Compatibility Standards
 
-| Standard | Title                                       | Status     | Lead       |
-|----------|-------------------------------------------|------------|------------|
-| [CAIP-2-compliant blockchain identifiers](https://github.com/dfinity/wg-token-standards/pull/2) | CAIP-2-compliant blockchain identifiers | ![Draft] | [Lead Name] |
-| [CAIP-10-compliant account addresses](https://github.com/icvc/icp-namespace/pull/1) | CAIP-10-compliant account addresses | ![Draft] | [Lead Name] |
+| Standard | Title                                       | Status     |
+|----------|---------------------------------------------|------------|
+| [CAIP-2-compliant blockchain identifiers](https://github.com/dfinity/wg-token-standards/pull/2) | CAIP-2-compliant blockchain identifiers | ![Draft] |
+| [CAIP-10-compliant account addresses](https://github.com/icvc/icp-namespace/pull/1) | CAIP-10-compliant account addresses | ![Draft] |
 
 ### Payment and Other Token-related Standards
 
-| Standard | Title                                       | Status     | Lead       |
-|----------|-------------------------------------------|------------|------------|
-| [ICRC-22](https://github.com/dfinity/ICRC/pull/101/files) | URI Format for Payment Requests | ![Draft] | [Lead Name] |
-| [ICRC-91](https://github.com/dfinity/ICRC/pull/96/files) | URI Scheme for Addressing Canister Content via HTTP | ![Draft] | [Lead Name] |
+| Standard | Title                                       | Status     |
+|----------|---------------------------------------------|------------|
+| [ICRC-22](https://github.com/dfinity/ICRC/pull/101/files) | URI Format for Payment Requests | ![Draft] |
+| [ICRC-91](https://github.com/dfinity/ICRC/pull/96/files) | URI Scheme for Addressing Canister Content via HTTP | ![Draft] |
 
 ## Meetings and Community Participation
 
